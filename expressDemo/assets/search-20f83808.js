@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,b as r,C as t}from"./index-ab6fab78.js";const c={},n={class:"search"};function l(e,u){return a(),o("div",n,[r("h2",null,"开始时间："+t(e.$route.query.stateDate),1),r("h2",null,"结束时间："+t(e.$route.query.endDate),1),r("h2",null,"地点："+t(e.$route.query.cityStore),1)])}const _=s(c,[["render",l]]);export{_ as default};
